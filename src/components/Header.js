@@ -21,12 +21,11 @@ const styles = {
     height: 60,
     paddingTop: 15,
     elevation: 2,
-    position: 'relative'
-    /*iOS settings:
+    position: 'relative',
     shadowColor: 'red',
     shadowOffset: { width: 0, height: 0 },
     shadowOpacity: 0.2
-    */
+
   },
   textStyle: {
     fontSize: 20,
